@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EventRegistration.API/EventRegistration.API.csproj" />
+  <Project Path="EventRegistration.Core/EventRegistration.Core.csproj" />
+  <Project Path="EventRegistration.Infrastructure/EventRegistration.Infrastructure.csproj" Id="17cdcbf3-1d5b-4b9e-a406-7ddbc50333a5" />
+  <Project Path="EventRegistrationTests/EventRegistrationTests.csproj" Id="9bb304c1-bf90-43ad-9ffe-06a277912be0" />
+</Solution>
